@@ -23,7 +23,7 @@ function headerTag(){
 
 
 $head = headerTag();
-$banner=true;
+$banner=false;
 $bannerTag="Cart";
 $title='Cart';
 include("database/Connection.php");

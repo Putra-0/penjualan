@@ -66,7 +66,7 @@ color:grey;
 <?php
 }
 $head = headerTag();
-$banner=true;
+$banner=false;
 $bannerTag="Register";
 $title='Register';
 include("include/Top.php");
