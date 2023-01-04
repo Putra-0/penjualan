@@ -8,7 +8,7 @@ function headerTag(){
 <?php
 }
 $head = headerTag();
-$banner=true;
+$banner=false;
 $bannerTag="Complete Order";
 $title='Complete Order';
 $activeNavs=3;

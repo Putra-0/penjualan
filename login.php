@@ -6,7 +6,7 @@ function headerTag(){
 <?php
 }
 $head = headerTag();
-$banner=true;
+$banner=false;
 $bannerTag="Sign In";
 $title='Sign In';
 include("include/Top.php");

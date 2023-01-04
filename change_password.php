@@ -8,7 +8,7 @@ function headerTag(){
 <?php
 }
 $head = headerTag();
-$banner=true;
+$banner=false;
 $bannerTag="Change Password";
 $title='Change Password';
 $activeNavs=6;

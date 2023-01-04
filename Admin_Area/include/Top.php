@@ -87,7 +87,7 @@ function closeNav() {
   <div id="mySidebar" class="d-flex flex-column flex-shrink-0 p-3 pb-4 text-light bg-dark scrollarea fixed-top" style="width:300px !important; margin-top: 45px !important; height: 95%;">
     <a href="index.php" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-light text-decoration-none">
     <i class="fa-solid fa-rainbow me-2"></i>
-      <span class="fs-4">Pelangi Accessories</span>
+      <span class="fs-4">Flazz Accessories</span>
     </a>
     <hr>
     <ul class="nav nav-pills flex-column mb-auto">

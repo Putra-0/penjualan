@@ -8,7 +8,7 @@ function headerTag(){
 <?php
 }
 $head = headerTag();
-$banner=true;
+$banner=false;
 $bannerTag="SHOP AT PELANGI ACCESSORIES";
 $title='Shop';
 $activeNavbar=2;

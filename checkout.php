@@ -8,7 +8,7 @@ function headerTag(){
 <?php
 }
 $head = headerTag();
-$banner=true;
+$banner=false;
 $bannerTag="Check Out";
 $title='Check Out';
 include("database/Connection.php");

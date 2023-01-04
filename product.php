@@ -12,7 +12,7 @@ function headerTag(){
 }
 
 $head = headerTag();
-$banner=true;
+$banner=false;
 $bannerTag="PRODUCT VIEW";
 $title='Product';
 $activeNavbar=2;

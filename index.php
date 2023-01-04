@@ -18,7 +18,7 @@ include("include/Top.php");
 <!-- Content -->
 
 <div class="container-fluid text-center py-4">
-    <img src="image/banner_pa.png" class="img-fluid f-in" alt="pelangi store" width="95%">
+    <img src="image/logo.jpg" class="img-fluid f-in" alt="pelangi store" width="40%">
 </div>
 
 <?php

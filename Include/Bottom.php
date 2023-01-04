@@ -70,7 +70,7 @@ $conn->close();
           </h6>
           <p>
             <a href="my_order.php" class="text-reset">My Order</a>
-          </p>
+          </p7
           <p>
             <a href="cart.php" class="text-reset">Cart</a>
           </p>
@@ -102,7 +102,7 @@ $conn->close();
   <!-- Copyright -->
   <div class="text-center p-4 bg-dark">
     © 2022 Design by:
-    <a class="text-reset fw-bold" href="#"> Pamungkas</a>
+    <a class="text-reset fw-bold" href="#"> KELOMPOK X</a>
   </div>
   <!-- Copyright -->
 </footer>

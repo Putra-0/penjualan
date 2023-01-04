@@ -47,7 +47,7 @@ session_start();
 
 <nav class="navbar navbar-expand-md navbar-light bg-light">
     <div class="container-fluid">
-    <img src="image/logo_pa.png" class="img-thumbnail rounded-circle d-none d-lg-block d-xl-block" alt="logo" width="100" height="100">
+    <img src="image/logo.jpg" class="img-thumbnail rounded-circle d-none d-lg-block d-xl-block" alt="logo" width="100" height="100">
     <button class="navbar-toggler ms-auto" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>

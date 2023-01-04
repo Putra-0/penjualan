@@ -13,7 +13,7 @@ function headerTag(){
 <?php
 }
 $head = headerTag();
-$banner=true;
+$banner=false;
 $bannerTag="Pay Ofline";
 $activeNavs=4;
 $title='Pay Ofline';
