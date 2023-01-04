@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Waktu pembuatan: 04 Jan 2023 pada 13.19
+-- Waktu pembuatan: 04 Jan 2023 pada 13.23
 -- Versi server: 10.4.22-MariaDB
 -- Versi PHP: 8.1.1
 
@@ -39,7 +39,7 @@ CREATE TABLE `about_us` (
 --
 
 INSERT INTO `about_us` (`id`, `Heading`, `Short_Desc`, `Long_Desc`) VALUES
-(1, 'About Us - Our Story', 'Pelangi Accessories didirikan pada tahun 2012. Pelangi Accessories hadir untuk memenuhi kebutuhan pasar akan permintaan berbagai macam aksesoris pendukung penampilan di kota Palangka Raya.', 'Pelangi Accessories memiliki visi menjadikan usaha mikro kecil menengah yang mampu memberdayakan tenaga kerja lokal serta dapat menciptakan lapangan kerja sebesar mungkin. Pelangi Accessories bekerja sama dengan supplier terpercaya yang mampu menjamin kualitas dan stok yang selalu tersedia. Pelangi Accessories juga bekerja sama dengan berbagai jasa ekspedisi agar dapat menjamin kualitas dan keamanan saat pengiriman barang.');
+(1, 'About Us - Our Story', 'Flazz computer didirikan pada tahun 2022. Flazz computer hadir untuk memenuhi kebutuhan pasar akan permintaan berbagai macam perangkat komputer, aksesoris komputer dan lain lain.', '');
 
 -- --------------------------------------------------------
 
@@ -121,7 +121,7 @@ CREATE TABLE `contact` (
 --
 
 INSERT INTO `contact` (`id`, `facebook`, `twitter`, `instagram`, `alamat`, `email`, `telepon`, `whatsapp`) VALUES
-(1, 'https://www.facebook.com/', 'https://twitter.com/', 'https://www.instagram.com/', 'Kota Palangka Raya', 'pelangi@mail.com', '(021)-223-123-221', '085504768123');
+(1, 'https://www.facebook.com/', 'https://twitter.com/', 'https://www.instagram.com/', 'Daerah istimewa yogyakarta', 'flazzcomputer@mail.com', '(021)-223-123-221', '0812345678');
 
 -- --------------------------------------------------------
 
